@@ -5,7 +5,7 @@
 
 ## About Me
 
-Versatile software engineer with extensive experience in full-stack app development. Spent the last few years working on side projects to learn Python and other AI/data-science things.
+Senior full-stack software engineer with a strong background in TypeScript/React and production backend systems. Experienced in building data-rich applications with hands-on experience in Python, data-analysis and AI through side-projects.
 
 ## Professional Experience
 
@@ -38,43 +38,44 @@ I later switched to a team working on a **React** app called Moneyhub for aggreg
 
 ## Projects
 
-- [Cascadia AI](https://github.com/davidxmoody/cascadia-ai)
-  - An AI algorithm to play the board game Cascadia
-  - Uses **Python**/**PyTorch** to train a neural network for predicting future rewards
+### [Cascadia AI](https://github.com/davidxmoody/cascadia-ai)
 
-- [Railroad Ink AI](https://github.com/davidxmoody/railroad-ink-ai)
-  - A playable **TypeScript**/**Svelte** implementation of the board game Railroad Ink and an AI algorithm to play it
-  - Also includes experiments with Naive Bayes classifiers and neural networks
+- An AI algorithm to play the board game Cascadia
+- Uses **Python**/**PyTorch** to train a neural network for predicting future rewards
 
-- [Apple Watch data analysis](https://github.com/davidxmoody/self-tracking)
-  - A collection of **Python** scripts to import and graph data from an Apple Health export and other sources
-  - Uses **Pandas**, **Plotly**/**Dash** and **Matplotlib**
+### [Railroad Ink AI](https://github.com/davidxmoody/railroad-ink-ai)
 
-- [Life-calendar](https://github.com/davidxmoody/life-calendar)
-  - **Progressive Web App** for visualising the weeks in a human lifetime and also displaying different layers of health/habit data
-  - Uses **TypeScript**, **React**, **IndexedDB** and **Express**
+- A playable **TypeScript**/**Svelte** implementation of the board game Railroad Ink and an AI algorithm to play it
+- Also includes experiments with Naive Bayes classifiers and neural networks
 
-- [Advent of Code](https://github.com/davidxmoody/advent-of-code)
-  - My solutions to the popular programming puzzles in **TypeScript**, **Python** and **SQL**
+### [Apple Watch Data Analysis](https://github.com/davidxmoody/self-tracking)
 
-- [Kaggle](https://github.com/davidxmoody/kaggle)
-  - My solutions to a few of the beginner Kaggle machine-learning challenges
+- A collection of **Python** scripts to import and graph data from an Apple Health export and other sources
+- Uses **Pandas**, **Plotly**/**Dash** and **Matplotlib**
 
-- [Monte Carlo Tree Search in Texas Hold'em poker](https://github.com/davidxmoody/mctsbot)
-  - Third year university dissertation project
-  - Built a working poker bot using MCTS and Naive Bayes classifiers
+### [Life Calendar](https://github.com/davidxmoody/life-calendar)
 
-- [Professor P website/games](https://github.com/davidxmoody/professorp.co.uk)
-  - Static website and 5 JavaScript games for a series of children's books
+- **Progressive Web App** for visualising the weeks in a human lifetime and also displaying different layers of health/habit data
+- Uses **TypeScript**, **React**, **IndexedDB** and **Express**
 
-- [Metalsmith broken link checker](https://github.com/davidxmoody/metalsmith-broken-link-checker)
-  - Tool for detecting broken links in a static website
+### [Monte Carlo Tree Search in Texas Hold'em Poker](https://github.com/davidxmoody/mctsbot)
 
-- [Old blog](https://github.com/davidxmoody/davidxmoody.com)
-  - Static website with some stuff I wrote in 2014-2016 (mostly about programming)
+- Third year university dissertation project
+- Built a working poker bot using MCTS and Naive Bayes classifiers
 
-- [Dotfiles](https://github.com/davidxmoody/dotfiles)
-  - Personal config files for Neovim, bash, git, tmux, etc.
+### Other Projects
+
+- [Advent of Code](https://github.com/davidxmoody/advent-of-code): My solutions to the popular programming puzzles in **TypeScript**, **Python** and **SQL**
+
+- [Kaggle](https://github.com/davidxmoody/kaggle): My solutions to a few of the beginner Kaggle machine-learning challenges
+
+- [Professor P website/games](https://github.com/davidxmoody/professorp.co.uk): Static website and 5 JavaScript games for a series of children's books
+
+- [Metalsmith broken link checker](https://github.com/davidxmoody/metalsmith-broken-link-checker): Tool for detecting broken links in a static website
+
+- [Old blog](https://github.com/davidxmoody/davidxmoody.com): Static website with some stuff I wrote in 2014-2016 (mostly about programming)
+
+- [Dotfiles](https://github.com/davidxmoody/dotfiles): Personal config files for Neovim, bash, git, tmux, etc.
 
 ## Education
 
