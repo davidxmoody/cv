@@ -13,6 +13,10 @@ I particularly enjoy visualising data and have hands-on experience with Python, 
 
 ## Professional Experience
 
+### Career break (Nov 2021 - present)
+
+Took an extended break from employment, during which I built multiple personal projects related to AI and data-science with Python (see Projects section).
+
 ### Senior Software Engineer at Candide (Oct 2017 - Nov 2021)
 
 I worked at Candide as it grew from approx 5 employees to 50. The original goal of Candide was to create an "everything app" for all things related to plants and gardening. It was a social network but also had a plant database, AI plant identification, buying/selling, garden audio tours, ticketing and more.
@@ -21,9 +25,9 @@ I worked on a little bit of everything, sometimes as the lead/solo dev on a new 
 
 - Creating a new CMS for managing plant and app data:
     - With a need to replace a legacy Laravel system, I created a new custom React/GraphQL/Node.js based CMS
-    - I significantly improved the quality of our web-scraped plant data including: creating a JSON Schema based editing form, migrating from CouchDB to Postgres and analysing/fixing a lot of the data
-    - I created the tools for staff to author app/website content and moderate user content
-    - I worked closely with a remote product owner and content editors to add new features and save them as much time as possible
+    - I significantly improved our web-scraped plant data including: migrating from CouchDB to Postgres, creating a JSON Schema and editing interface and analysing/fixing the data
+    - I created tools for staff to author app/website content and moderate user content
+    - I worked closely with a remote product owner and content editors to add other new features
 
 - Creating and maintaining features in the React Native app:
     - I worked closely with designers and product owners to create many new app features
@@ -31,12 +35,11 @@ I worked on a little bit of everything, sometimes as the lead/solo dev on a new 
     - I created the initial frontend for garden memberships (including Stripe integration)
     - I created the initial frontend for users to buy/sell/trade plants in app (including integration with a third party chat system)
     - I greatly improved the usability of uploading images/videos for social network posts (including background uploads, progress bars and better error handling)
-    - I also did a lot of maintenance work including: React Native version upgrades, app store releases, writing/fixing UI tests and improving code quality (for example introducing React hooks and eliminating a lot of dead code)
+    - I also did a lot of maintenance work including: React Native version upgrades, app store releases, writing/fixing UI tests and improving code quality (for example introducing React hooks and deleting dead code)
 
 - Backend work:
-    - We used GraphQL for our public APIs supported by TypeScript/Node.js micro-services and Postgres on GCP
-    - I initially worked with others to create new routes and design database schemas
-    - I later created several new micro-services/databases by myself
+    - We used GraphQL for our public APIs supported by TypeScript/Node.js micro-services and Postgres on Google Cloud Platform
+    - I worked with others and by myself to create new micro-services and design database schemas
     - I deployed at least one thing into production on most days
 
 - Working with a team to create services for public gardens:
@@ -72,45 +75,45 @@ I then switched to a larger team working on a React app for aggregating personal
 
 - I worked on developing new UI components and features for the app and CMS
 - I introduced two big new technologies into the project: CSS modules (to replace Sass) and React Storybook (a tool for developing components in isolation)
-- I participated in multiple Design Sprints to help design new features
+- I participated in multiple Design Sprints to help create new features
 
 From Aug 2016 to Aug 2017 I ran the CodeHub Hack Night meetups every two weeks in the MFT offices. I also attended approx 150+ tech meetups and conferences from 2015 to 2020 (BristolJS, Bristech, Bristol Web Perf, CodeHub, PyData, SW Mobile and more).
 
 ## Projects
 
-### [Life Calendar](https://github.com/davidxmoody/life-calendar)
+### [Life Calendar](https://github.com/davidxmoody/life-calendar) (2015 - present)
 
 - Offline Progressive Web App for visualising the weeks in a human lifetime and displaying health/habit data
 - Uses TypeScript, React, IndexedDB and Express
 
-### [Railroad Ink AI](https://github.com/davidxmoody/railroad-ink-ai)
+### [Railroad Ink AI](https://github.com/davidxmoody/railroad-ink-ai) (2023)
 
 - A playable TypeScript/Svelte implementation of the board game Railroad Ink and an AI algorithm to play it
-- Also includes experiments with Naive Bayes classifiers and neural networks
+- Includes experiments with Naive Bayes classifiers and neural networks
 
-### [Apple Watch Data Analysis](https://github.com/davidxmoody/self-tracking)
+### [Apple Watch Data Analysis](https://github.com/davidxmoody/self-tracking) (2024 - present)
 
 - A collection of Python scripts to import and graph data from an Apple Health export and other sources
 - Uses Pandas, Plotly/Dash and Matplotlib
 
-### [Cascadia AI](https://github.com/davidxmoody/cascadia-ai)
+### [Cascadia AI](https://github.com/davidxmoody/cascadia-ai) (2024)
 
 - An AI algorithm to play the board game Cascadia
 - Uses Python/PyTorch to train a neural network for predicting future rewards
 
 ### Other Projects
 
-- [Advent of Code](https://github.com/davidxmoody/advent-of-code): My solutions to about 5 years of the yearly programming puzzles in TypeScript, Python and SQL
+- [Advent of Code](https://github.com/davidxmoody/advent-of-code) (2019 - present): My solutions to about 5 full years of the yearly programming puzzles in TypeScript, Python and SQL
 
-- [Monte Carlo Tree Search in Texas Hold'em Poker](https://github.com/davidxmoody/mctsbot): University dissertation project to build a poker bot
+- [Monte Carlo Tree Search in Texas Hold'em Poker](https://github.com/davidxmoody/mctsbot) (2010-2011): University dissertation project to build a poker bot
 
-- [Professor P website/games](https://github.com/davidxmoody/professorp.co.uk): Static website and 5 JavaScript games for a series of children's books
+- [Professor P website/games](https://github.com/davidxmoody/professorp.co.uk) (2013-2014): Static website and 5 JavaScript games for a series of children's books
 
-- [Metalsmith broken link checker](https://github.com/davidxmoody/metalsmith-broken-link-checker): NPM library for detecting broken links in a static website
+- [Metalsmith broken link checker](https://github.com/davidxmoody/metalsmith-broken-link-checker) (2015-2017): NPM library for detecting broken links in a static website
 
-- [Old blog](https://github.com/davidxmoody/davidxmoody.com): Static website with some stuff I wrote in 2014-2016 (mostly about programming)
+- [Old blog](https://github.com/davidxmoody/davidxmoody.com) (2014-2017): Static website with some stuff I wrote about programming
 
-- [Dotfiles](https://github.com/davidxmoody/dotfiles): Personal config files for Neovim, bash, git, tmux, etc.
+- [Dotfiles](https://github.com/davidxmoody/dotfiles) (2011 - present): Personal config files for Neovim, bash, git, tmux, etc.
 
 ## Education
 
@@ -120,8 +123,4 @@ From Aug 2016 to Aug 2017 I ran the CodeHub Hack Night meetups every two weeks i
 
 ### Strode College (2006 - 2008)
 
-- Maths (A)
-- Further Maths (A)
-- Physics (A)
-- Chemistry (A)
-- Biology (A)
+- Maths (A), Further Maths (A), Physics (A), Chemistry (A), Biology (A)
