@@ -1,21 +1,18 @@
 # David Moody
 
+- Location: Bristol, UK
 - GitHub: [github.com/davidxmoody](https://github.com/davidxmoody)
 - LinkedIn: [linkedin.com/in/davidxmoody/](https://www.linkedin.com/in/davidxmoody/)
 
 ## About Me
 
-Senior full-stack software engineer with a strong background in TypeScript/React and production backend systems.
-
-Experienced building data-rich mobile and web applications. Capable of working effectively on complex projects both alone and with a team.
-
-I particularly enjoy visualising data and have hands-on experience with Python, data-analysis and AI through side-projects.
+Senior full-stack engineer specialising in data-rich mobile and web applications. Strongest with TypeScript, React and React Native, with production backend experience in Node.js, GraphQL and Postgres. Comfortable working alone on new features or as part of a larger team. Hands-on experience with Python, data analysis and AI through personal projects.
 
 ## Professional Experience
 
 ### Career break (Nov 2021 - present)
 
-Took an extended break from employment, during which I built multiple personal projects related to AI and data-science with Python (see Projects section).
+Took an extended break from employment, during which I built personal projects related to AI and data science with Python (see Projects section).
 
 ### Senior Software Engineer at Candide (Oct 2017 - Nov 2021)
 
@@ -38,9 +35,10 @@ I worked on a little bit of everything, sometimes as the lead/solo dev on a new 
     - I also did a lot of maintenance work including: React Native version upgrades, app store releases, writing/fixing UI tests and improving code quality (for example introducing React hooks and deleting dead code)
 
 - Backend work:
-    - We used GraphQL for our public APIs supported by TypeScript/Node.js micro-services and Postgres on Google Cloud Platform
-    - I worked with others and by myself to create new micro-services and design database schemas
+    - We used GraphQL for our public APIs supported by TypeScript/Node.js microservices and Postgres on Google Cloud Platform
+    - I designed database schemas and built new microservices, both independently and with others
     - I deployed at least one thing into production on most days
+    - I gained lots of experience writing and maintaining unit/API/end-to-end tests and working with CircleCI
 
 - Working with a team to create services for public gardens:
     - We created a ticketing solution for gardens (user buys on website, garden owner scans QR code and views all tickets in a CMS)
@@ -50,11 +48,11 @@ I worked on a little bit of everything, sometimes as the lead/solo dev on a new 
 
 - Creating dashboards with SQL and Google Data Studio:
     - Before we had proper dashboards in place, I ran hundreds of manual SQL queries to answer data questions for stakeholders
-    - I helped to introduce Data Studio and created many dashboards to answer questions about user behaviour and Plant ID accuracy
+    - I helped to introduce Data Studio and created dashboards to answer questions about user behaviour and Plant ID accuracy
     - I later gained experience working with data scientists and using BigQuery and Google Analytics
 
 - Working on a Next.js website:
-    - I worked with designers to create marketing pages and render selected app content
+    - I worked with designers to create marketing pages and render limited app content
     - I created a new website header to unify pages that were previously using two different conflicting component libraries
 
 - Creating new things during "hack days":
@@ -81,39 +79,39 @@ From Aug 2016 to Aug 2017 I ran the CodeHub Hack Night meetups every two weeks i
 
 ## Projects
 
-### [Life Calendar](https://github.com/davidxmoody/life-calendar) (2015 - present)
-
-- Offline Progressive Web App for visualising the weeks in a human lifetime and displaying health/habit data
-- Uses TypeScript, React, IndexedDB and Express
-
-### [Railroad Ink AI](https://github.com/davidxmoody/railroad-ink-ai) (2023)
-
-- A playable TypeScript/Svelte implementation of the board game Railroad Ink and an AI algorithm to play it
-- Includes experiments with Naive Bayes classifiers and neural networks
-
 ### [Apple Watch Data Analysis](https://github.com/davidxmoody/self-tracking) (2024 - present)
 
 - A collection of Python scripts to import and graph data from an Apple Health export and other sources
 - Uses Pandas, Plotly/Dash and Matplotlib
+
+### [Life Calendar](https://github.com/davidxmoody/life-calendar) (2015 - present)
+
+- Offline Progressive Web App for visualising the weeks in a human lifetime and displaying health/habit data
+- Uses TypeScript, React, IndexedDB and Express
 
 ### [Cascadia AI](https://github.com/davidxmoody/cascadia-ai) (2024)
 
 - An AI algorithm to play the board game Cascadia
 - Uses Python/PyTorch to train a neural network for predicting future rewards
 
+### [Railroad Ink AI](https://github.com/davidxmoody/railroad-ink-ai) (2023)
+
+- A playable TypeScript/Svelte implementation of the board game Railroad Ink and an AI algorithm to play it
+- Includes experiments with Naive Bayes classifiers and neural networks
+
 ### Other Projects
 
 - [Advent of Code](https://github.com/davidxmoody/advent-of-code) (2019 - present): My solutions to about 5 full years of the yearly programming puzzles in TypeScript, Python and SQL
 
-- [Monte Carlo Tree Search in Texas Hold'em Poker](https://github.com/davidxmoody/mctsbot) (2010-2011): University dissertation project to build a poker bot
-
-- [Professor P website/games](https://github.com/davidxmoody/professorp.co.uk) (2013-2014): Static website and 5 JavaScript games for a series of children's books
+- [Dotfiles](https://github.com/davidxmoody/dotfiles) (2011 - present): Personal config files for Neovim, bash, git, tmux, etc.
 
 - [Metalsmith broken link checker](https://github.com/davidxmoody/metalsmith-broken-link-checker) (2015-2017): NPM library for detecting broken links in a static website
 
 - [Old blog](https://github.com/davidxmoody/davidxmoody.com) (2014-2017): Static website with some stuff I wrote about programming
 
-- [Dotfiles](https://github.com/davidxmoody/dotfiles) (2011 - present): Personal config files for Neovim, bash, git, tmux, etc.
+- [Professor P website/games](https://github.com/davidxmoody/professorp.co.uk) (2013-2014): Static website and 5 JavaScript games for a series of children's books
+
+- [Monte Carlo Tree Search in Texas Hold'em Poker](https://github.com/davidxmoody/mctsbot) (2010-2011): University dissertation project to build a poker bot
 
 ## Education
 
